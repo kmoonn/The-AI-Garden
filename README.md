@@ -21,6 +21,7 @@
 - **温室**：工具与环境配置
 
 ## 目录结构
+```bash
 .
 ├── seeds/           # 理论根基
 │   ├── linear_algebra.md
@@ -37,3 +38,4 @@
 └── greenhouse/      # 开发环境
     ├── docker_setup/
     └── colab_cheatsheet.md
+```
