@@ -18,24 +18,21 @@
 - **幼苗**：经典算法实现
 - **花朵**：前沿模型解析
 - **果实**：完整项目实践
-- **温室**：工具与环境配置
+- **温室**：框架与环境配置
 
 ## 目录结构
 ```bash
 .
 ├── seeds/           # 理论根基
-│   ├── linear_algebra.md
-│   └── probability/
+│   ├── 
 ├── sprouts/         # 算法实现
-│   ├── CNN_from_scratch.ipynb
-│   └── RL_CartPole/
+│   ├── 
 ├── flowers/         # 高级模型
-│   ├── transformer_anatomy.md
-│   └── stable_diffusion/
+│   ├── 
 ├── fruits/          # 实践成果
-│   ├── kaggle_titanic/
-│   └── news_classifier/
-└── greenhouse/      # 开发环境
-    ├── docker_setup/
-    └── colab_cheatsheet.md
+│   ├── 
+└── greenhouse/      # 环境框架
+    ├── PyTorch
+    ├── TensorFlow
+    ├── PaddlePaddle
 ```
