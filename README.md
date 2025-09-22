@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![GitHub stars](https://img.shields.io/github/stars/yourname/The-AI-Garden?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/kmoonn/The-AI-Garden?style=social)
   ![License](https://img.shields.io/badge/License-MIT-green)
   ![Last Commit](https://img.shields.io/github/last-commit/yourname/The-AI-Garden)
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourname.The-AI-Garden)
